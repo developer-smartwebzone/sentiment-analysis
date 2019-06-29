@@ -1,3 +1,8 @@
-# sentiment-analysis
-1.By using Naive-bayes classifier ,implement a sentiment analysis-gui
-2.Accuracy:72%
+# Simple Sentiment Analysis Code Using NLTK
+This is a simple code to test NLTK naive bayes classifier and use it in Sentiment Analysis
+
+## Dependencies
+NLTK is the only dependency
+
+## Usage
+Run ```python main.py``` to see the resulting GUI.
